@@ -28,7 +28,9 @@ No information.
 
 ## Recommended Literature
 ### IN2021
-1. Numpy for Matlab users
+Terry M. Peters, Kevin Cleary: Image-Guided Interventions: Technology and Applications. Springer, 1st edition 2008
+Terry M. Peters: Image-guided surgery: From X-rays to Virtual Reality. Comput Methods Biomech Biomed Engin, 4(1):27-57, 2000
+
 ### IN5901
 Schneider, Armin, & Hubertus Feussner. Biomedical engineering in gastrointestinal surgery. Academic Press, 2017. ISBN: 9780128032305
 ### ME0156
