@@ -34,12 +34,11 @@ No information.
 ### ME0156
 Accompanying lecture notes. Currently scientific literature.
 ### ME580 - Medical Information Processing
-van Bemmel JH, Musen MA: Handbook of Medical Informatics. 2nd ed, Heidelberg: Springer 2000. 
-Shortliffe EH (ed), Cimino (assoc ed).
-Biomedical Informatics, 3rd ed, New York, 2006. 
-Institute of Medicine: To Err is Human. Washington D.C.:  National Academy Press 2000. 
-Institute of Medicine: Crossing the Quality Chasm. WashingtonD.C.: National Academy Press 2001. 
-Coiera E.: Guide to Health Informatics. 2nd ed, Hodder Arnold Publishers, 2003.
+1. van Bemmel JH, Musen MA: Handbook of Medical Informatics. 2nd ed, Heidelberg: Springer 2000. 
+2. Shortliffe EH (ed), Cimino (assoc ed). Biomedical Informatics, 3rd ed, New York, 2006. 
+3. Institute of Medicine: To Err is Human. Washington D.C.:  National Academy Press 2000. 
+4. Institute of Medicine: Crossing the Quality Chasm. WashingtonD.C.: National Academy Press 2001. 
+5. Coiera E.: Guide to Health Informatics. 2nd ed, Hodder Arnold Publishers, 2003.
 ### ME580 - Pathophysiology
 No information.
 ## Tips
