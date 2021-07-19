@@ -30,7 +30,7 @@ No information.
 ### IN2021
 1. Numpy for Matlab users
 ### IN5901
--
+No information.
 ### ME0156
 Accompanying lecture notes. Currently scientific literature.
 ### ME580 - Medical Information Processing
