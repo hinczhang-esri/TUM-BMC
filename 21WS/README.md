@@ -2,7 +2,7 @@
 
 ![cmd-markdown-logo](https://study-eu.s3.amazonaws.com/uploads/university/technical-university-of-munich--tum--374-logo.png)+
 
-```>Note: this project is to help master students from the Cartography program change their direction to BMC the program.```
+>Note: this project is to help master students from the Cartography program change their direction to the BMC program.
 
 ## Register your courses
 Here we would like to recommend these courses for you:
