@@ -30,7 +30,7 @@ No information.
 ### IN2021
 1. Numpy for Matlab users
 ### IN5901
-No information.
+Schneider, Armin, & Hubertus Feussner. Biomedical engineering in gastrointestinal surgery. Academic Press, 2017. ISBN: 9780128032305
 ### ME0156
 Accompanying lecture notes. Currently scientific literature.
 ### ME580 - Medical Information Processing
