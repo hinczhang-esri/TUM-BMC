@@ -34,11 +34,21 @@ Schneider, Armin, & Hubertus Feussner. Biomedical engineering in gastrointestina
 ### ME0156
 Accompanying lecture notes. Currently scientific literature.
 ### ME580 - Medical Information Processing
-1. van Bemmel JH, Musen MA: Handbook of Medical Informatics. 2nd ed, Heidelberg: Springer 2000. 
-2. Shortliffe EH (ed), Cimino (assoc ed). Biomedical Informatics, 3rd ed, New York, 2006. 
-3. Institute of Medicine: To Err is Human. Washington D.C.:  National Academy Press 2000. 
-4. Institute of Medicine: Crossing the Quality Chasm. WashingtonD.C.: National Academy Press 2001. 
-5. Coiera E.: Guide to Health Informatics. 2nd ed, Hodder Arnold Publishers, 2003.
+Van Bemmel JH, Musen MA: Handbook of Medical Informatics. 2nd ed, Heidelberg. Springer 2000.
+
+Shortliffe EH (ed), Cimino (assoc ed). Biomedical Informatics, 3rd ed, New York, 2006.
+
+Coiera E: Guide to Health Informatics. 2nd ed Hodder Arnold Publishers 2003.
+
+Institute of Medicine: To Err is Human. Washington D.C.: National Academy Press 2000.
+
+Institute of Medicine: Crossing the Quality Chasm. Washington D.C.: National Academy Press 2001.
+
+Halevy A, Doan AH, Ives ZG: Principles of Data Integration. 1st ed, Oxford, Elsevier 2012.
+
+Reddy CK, Aggarwal, CC: Healthcare Data Analytics. 1st ed, Chapman and Hall/CRC 2015.
+
+El Emam K: Guide to the De-Identification of Personal Health Information. 1st ed, Auerbach Publications 2013.
 ### ME580 - Pathophysiology
 No information.
 ## Tips
