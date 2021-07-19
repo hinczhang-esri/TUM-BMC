@@ -1,6 +1,6 @@
 # These are courses which may be chosen in the incoming 21 WS.
 
-![cmd-markdown-logo](https://study-eu.s3.amazonaws.com/uploads/university/technical-university-of-munich--tum--374-logo.png)+
+![cmd-markdown-logo](https://study-eu.s3.amazonaws.com/uploads/university/technical-university-of-munich--tum--374-logo.png)
 
 >Note: this project is to help master students from the Cartography program change their direction to the BMC program.
 
